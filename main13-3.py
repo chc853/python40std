@@ -24,5 +24,5 @@ except:
     
 for result in results:
     sheet.append([result])
-    
+## 추가수정    
 wb.save(r'C:\\python40\\email.xlsx')      
