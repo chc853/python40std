@@ -11,7 +11,7 @@ for i in range(1,load_ws.max_row+1):
     print("email : ",recv_email_value)
     try:
         send_email = "chc853@naver.com"
-        send_pwd = "!#zaq1xsw2"
+        send_pwd = "0000000"
         recv_email = recv_email_value
         
         smtp_name = "smtp.naver.com"

@@ -3,7 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 send_email = "chc853@naver.com"
-send_pwd = "!#zaq1xsw2"
+send_pwd = "000000"
 recv_email = "chc853@gmail.com"
 
 smtp_name = "smtp.naver.com"
